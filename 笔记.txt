@@ -1,3 +1,4 @@
 搜索快捷键：command+f
 注释（隐藏内容，会变绿）左边折叠logo
-打开terminal：运行 sh submit.sh
+打开terminal：粘贴：   sh submit.sh "描述"        然后是return
+找图片：在chrome里command+option+I打开开发者模式，然后左上角点选
