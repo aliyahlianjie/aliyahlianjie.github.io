@@ -1,0 +1,3 @@
+搜索快捷键：command+f
+注释（隐藏内容，会变绿）左边折叠logo
+打开terminal：运行 sh submit.sh
