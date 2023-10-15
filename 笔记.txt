@@ -3,3 +3,11 @@
 打开terminal：粘贴：   sh submit.sh "描述"        然后是return
 找图片：在chrome里command+option+I打开开发者模式，然后左上角点选
 找到图片上面对应的href="替换成我想要逃转的网址"
+
+
+# 流程
+改文本：搜索对应位置的文字->修改文字
+改图片：把需要的图片复制到assets文件目录下（reveal in finder）-> 开发者模式找对应位置的图片名称 
+        -> index.html里找该名称，替换成需要的图片的文件名
+改跳转：找到对应的portfolio -> 改上面的href
+提交：确保翻墙可用，若翻墙不好用可以调整后重启vscode或者开新的terminal session
